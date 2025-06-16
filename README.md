@@ -1,2 +1,2 @@
 # Talento_Tech
-Subir trabajos 
+Este repositorio es para subir los respectivos trabajos de Talento Tech
